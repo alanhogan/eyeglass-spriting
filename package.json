@@ -1,9 +1,9 @@
 {
-  "name": "eyeglass-spriting",
-  "description": "Automatically generate and consume image sprites from your Sass files.",
-  "version": "0.9.2",
+  "name": "eyeglass-spriting-ajh",
+  "description": "Automatically generate and consume image sprites from your Sass files. MIRROR of eyeglass-spriting which has not been published in months",
+  "version": "0.10.0-beta",
   "author": {
-    "name": "Joanna Wang",
+    "name": "Joanna Wang (fork by Alan Hogan)",
     "email": "joanna.j.wang@gmail.com",
     "url": "https://github.com/joannajw"
   },
