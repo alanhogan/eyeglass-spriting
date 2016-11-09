@@ -1,7 +1,7 @@
 {
   "name": "eyeglass-spriting-ajh",
   "description": "Automatically generate and consume image sprites from your Sass files. MIRROR of eyeglass-spriting which has not been published in months",
-  "version": "0.10.0-beta",
+  "version": "0.10.0-beta2",
   "author": {
     "name": "Joanna Wang (fork by Alan Hogan)",
     "email": "joanna.j.wang@gmail.com",
@@ -37,7 +37,7 @@
     "should": "^7.1.0"
   },
   "dependencies": {
-    "lwip": "^0.0.8",
+    "lwip": "^0.0.9",
     "node-sass-utils": "^1.1.2",
     "minimatch": "^2.0.8"
   },
