@@ -39,9 +39,13 @@
   "dependencies": {
     "pajk-lwip": "^0.2.0",
     "node-sass-utils": "^1.1.2",
-    "minimatch": "^2.0.8"
+    "minimatch": "^2.0.8",
+    "snyk": "^1.316.2"
   },
   "scripts": {
-    "test": "./node_modules/.bin/gulp test"
-  }
+    "test": "./node_modules/.bin/gulp test",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
+  },
+  "snyk": true
 }
